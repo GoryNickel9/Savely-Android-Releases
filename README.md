@@ -2,7 +2,7 @@
 
 APK firmati e note di versione dell’app Android nativa di Savely.
 
-Versione corrente: [0.1.8-alpha](https://github.com/GoryNickel9/Savely-Android-Releases/releases/tag/v0.1.8-alpha), versionCode 9. Include APK, checksum, note e rapporto di validazione. Passano 399 test JVM e 108 test Android 15 nella suite locale finale; i limiti delle prove reali sono dichiarati nel rapporto.
+Versione corrente: [0.1.9-alpha](https://github.com/GoryNickel9/Savely-Android-Releases/releases/tag/v0.1.9-alpha), versionCode 10. Include APK, checksum, note e rapporto di validazione. Passano 503 test JVM e due suite complete da 130 casi ciascuna su Android 12 e 15. Parità globale e flussi reali account/Coppia/Admin restano da qualificare; i limiti sono dichiarati nel rapporto.
 
 La prima installazione sopra la 0.1.7 richiede il download manuale; dalla 0.1.8 la schermata aggiornamenti consulta questa repository pubblica.
 
